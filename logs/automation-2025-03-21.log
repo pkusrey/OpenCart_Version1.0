@@ -1,0 +1,28 @@
+[INFO ] 2025-03-21 23:18:10.541 [main] TC001_AccountRegistrationTest - Starting TC001
+[INFO ] 2025-03-21 23:18:10.986 [main] TC001_AccountRegistrationTest - Clicked on register link
+[INFO ] 2025-03-21 23:18:10.988 [main] TC001_AccountRegistrationTest - Providing customer detail
+[INFO ] 2025-03-21 23:18:12.094 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2025-03-21 23:35:10.916 [main] TC001_AccountRegistrationTest - Starting TC001
+[INFO ] 2025-03-21 23:35:11.398 [main] TC001_AccountRegistrationTest - Clicked on register link
+[INFO ] 2025-03-21 23:35:11.401 [main] TC001_AccountRegistrationTest - Providing customer detail
+[INFO ] 2025-03-21 23:35:13.368 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2025-03-21 23:36:13.328 [main] TC001_AccountRegistrationTest - Starting TC001
+[INFO ] 2025-03-21 23:36:13.751 [main] TC001_AccountRegistrationTest - Clicked on register link
+[INFO ] 2025-03-21 23:36:13.752 [main] TC001_AccountRegistrationTest - Providing customer detail
+[INFO ] 2025-03-21 23:36:14.821 [main] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2025-03-21 23:42:30.846 [TestNG-tests-2] TC001_AccountRegistrationTest - Starting TC001
+[INFO ] 2025-03-21 23:42:31.157 [TestNG-tests-1] TC001_AccountRegistrationTest - Starting TC001
+[INFO ] 2025-03-21 23:42:31.416 [TestNG-tests-2] TC001_AccountRegistrationTest - Clicked on register link
+[INFO ] 2025-03-21 23:42:31.418 [TestNG-tests-2] TC001_AccountRegistrationTest - Providing customer detail
+[INFO ] 2025-03-21 23:42:31.635 [TestNG-tests-1] TC001_AccountRegistrationTest - Clicked on register link
+[INFO ] 2025-03-21 23:42:31.636 [TestNG-tests-1] TC001_AccountRegistrationTest - Providing customer detail
+[INFO ] 2025-03-21 23:42:32.867 [TestNG-tests-2] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2025-03-21 23:42:32.955 [TestNG-tests-1] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2025-03-21 23:42:47.832 [TestNG-tests-1] TC001_AccountRegistrationTest - Starting TC001
+[INFO ] 2025-03-21 23:42:48.317 [TestNG-tests-1] TC001_AccountRegistrationTest - Clicked on register link
+[INFO ] 2025-03-21 23:42:48.319 [TestNG-tests-1] TC001_AccountRegistrationTest - Providing customer detail
+[INFO ] 2025-03-21 23:42:49.653 [TestNG-tests-2] TC001_AccountRegistrationTest - Starting TC001
+[INFO ] 2025-03-21 23:42:49.765 [TestNG-tests-1] TC001_AccountRegistrationTest - Validating expected message
+[INFO ] 2025-03-21 23:42:50.167 [TestNG-tests-2] TC001_AccountRegistrationTest - Clicked on register link
+[INFO ] 2025-03-21 23:42:50.169 [TestNG-tests-2] TC001_AccountRegistrationTest - Providing customer detail
+[INFO ] 2025-03-21 23:42:51.257 [TestNG-tests-2] TC001_AccountRegistrationTest - Validating expected message

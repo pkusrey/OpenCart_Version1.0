@@ -1,0 +1,24 @@
+[INFO ] 2025-03-24 22:09:53.296 [main] TC002_LoginTest - ------TC002 starting-------
+[INFO ] 2025-03-24 22:09:56.481 [main] TC002_LoginTest - ------Click on login button-------
+[INFO ] 2025-03-24 22:09:57.634 [main] TC002_LoginTest - ------Account created-------
+[INFO ] 2025-03-24 22:09:57.694 [main] TC002_LoginTest - ------TC002 finish-------
+[INFO ] 2025-03-24 22:10:06.162 [main] TC002_LoginTest - ------TC002 starting-------
+[INFO ] 2025-03-24 22:10:06.538 [main] TC002_LoginTest - ------Click on login button-------
+[INFO ] 2025-03-24 22:10:08.040 [main] TC002_LoginTest - ------Account created-------
+[INFO ] 2025-03-24 22:10:08.096 [main] TC002_LoginTest - ------TC002 finish-------
+[INFO ] 2025-03-24 22:11:03.184 [TestNG-tests-1] TC002_LoginTest - ------TC002 starting-------
+[INFO ] 2025-03-24 22:11:03.737 [TestNG-tests-1] TC002_LoginTest - ------Click on login button-------
+[INFO ] 2025-03-24 22:11:04.032 [TestNG-tests-1] TC002_LoginTest - ------Account created-------
+[INFO ] 2025-03-24 22:11:05.037 [TestNG-tests-2] TC002_LoginTest - ------TC002 starting-------
+[INFO ] 2025-03-24 22:11:05.067 [TestNG-tests-1] TC002_LoginTest - ------TC002 finish-------
+[INFO ] 2025-03-24 22:11:05.630 [TestNG-tests-2] TC002_LoginTest - ------Click on login button-------
+[INFO ] 2025-03-24 22:11:07.251 [TestNG-tests-2] TC002_LoginTest - ------Account created-------
+[INFO ] 2025-03-24 22:11:07.295 [TestNG-tests-2] TC002_LoginTest - ------TC002 finish-------
+[INFO ] 2025-03-24 22:15:48.017 [TestNG-tests-1] TC002_LoginTest - ------TC002 starting-------
+[INFO ] 2025-03-24 22:15:48.553 [TestNG-tests-1] TC002_LoginTest - ------Click on login button-------
+[INFO ] 2025-03-24 22:15:48.934 [TestNG-tests-2] TC002_LoginTest - ------TC002 starting-------
+[INFO ] 2025-03-24 22:15:49.668 [TestNG-tests-2] TC002_LoginTest - ------Click on login button-------
+[INFO ] 2025-03-24 22:15:49.832 [TestNG-tests-1] TC002_LoginTest - ------Account created-------
+[INFO ] 2025-03-24 22:15:49.890 [TestNG-tests-1] TC002_LoginTest - ------TC002 finish-------
+[INFO ] 2025-03-24 22:15:51.107 [TestNG-tests-2] TC002_LoginTest - ------Account created-------
+[INFO ] 2025-03-24 22:15:51.171 [TestNG-tests-2] TC002_LoginTest - ------TC002 finish-------

@@ -1,0 +1,4 @@
+[INFO ] 2025-03-21 23:10:31.731 [main] TC001_AccountRegistrationTest - Starting TC001
+[INFO ] 2025-03-21 23:10:32.184 [main] TC001_AccountRegistrationTest - Clicked on rigster link
+[INFO ] 2025-03-21 23:10:32.185 [main] TC001_AccountRegistrationTest - Providing customer detail
+[INFO ] 2025-03-21 23:10:33.284 [main] TC001_AccountRegistrationTest - Validating expected message
